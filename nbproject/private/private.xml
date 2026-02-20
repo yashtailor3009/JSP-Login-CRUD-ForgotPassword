@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/login.html</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/db/DBConnection.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/util/EmailUtility.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/dashboard.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/style.css</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/forgot-password.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/profile.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/servlet/EditProfileServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/edit-profile.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/servlet/DeleteAccountServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/web/delete-account.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/Login/src/java/com/servlet/AdminServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
